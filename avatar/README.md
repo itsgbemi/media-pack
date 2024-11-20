@@ -1,2 +1,2 @@
 # Context
-Keeping media files I use across projects here.
+Keeping avatars I use across projects here.
